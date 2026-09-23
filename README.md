@@ -40,7 +40,7 @@ Wind: 12.3 km/h
 4. All network calls are wrapped in error handling for invalid cities and connection issues
 
 ## Project Structure
-synent-task6-weatherapp-otsilelekabe/
+otsilelekabe-weatherapp/
 ├── weather.py      # Main application
 ├── README.md
 └── .gitignore
