@@ -1,7 +1,6 @@
-# synent-task6-weatherapp-otsilelekabe
+# otsilelekabe-weatherapp
 
-Weather App (API Integration) - Task 6, Intermediate Level
-Synent Technologies Python Development Internship
+Weather App (API Integration) - Intermediate Level
 
 ## Objective
 Fetch and display real-time weather data for a city entered by the user.
@@ -47,4 +46,4 @@ synent-task6-weatherapp-otsilelekabe/
 └── .gitignore
 
 ## Author
-Otsile Lekabe - Synent Technologies Python Internship
+Otsile Lekabe.
